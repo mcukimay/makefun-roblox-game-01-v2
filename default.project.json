@@ -1,0 +1,1 @@
+{"name":"milos-mole-dig","tree":{"$className":"DataModel","ServerScriptService":{"$path":"src/server"},"StarterPlayer":{"StarterPlayerScripts":{"$path":"src/client"}},"Workspace":{"MiloTower":{"$className":"Folder"}}}}
